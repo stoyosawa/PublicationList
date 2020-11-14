@@ -3,7 +3,7 @@
 
 #### Original work
 
-- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理]()
+- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理](),
 	カットシステム, XX pages (printing)
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	カットシステム, 529 pages (July 2020).
