@@ -1,7 +1,8 @@
 ## Publication List
-Satoshi Toyosawa, 2020-11-06
+Satoshi Toyosawa, DSc.
+Last updated: 2020-11-14.
 
 - [Academic papers](papers.md)
 - [Commercially published books](Books.md)
 - [F5 DevCentral Technical articles](DevCentral.md)
-- [Patents](patents.md)
+- [Patents](Patents.md)
