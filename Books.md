@@ -3,8 +3,8 @@
 
 #### Original work
 
-- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理](),
-	カットシステム, XX pages (printing)
+- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
+	カットシステム, 378 pages (Janyary 2021).
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	カットシステム, 529 pages (July 2020).
 - 豊沢聡, 大間哲著 & 加藤ゆきの, [情報処理エンジニア職業ガイド](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
@@ -45,7 +45,7 @@
 	カットシステム, 251 pages (November 2003).
 - 豊沢聡, [Perl はじめの一歩](http://www.cutt.co.jp/book/4-87783-075-8.html),
 	カットシステム, 199 pages (May 2003).
-- 豊沢聡, [IT 英語のナゾ]http://www.cutt.co.jp/book/4-87783-079-0.html),
+- 豊沢聡, [IT 英語のナゾ](http://www.cutt.co.jp/book/4-87783-079-0.html),
 	カットシステム, 270 pages (February 2003).
 - 豊沢聡, [実践 Java ネットワークプログラミング](http://www.cutt.co.jp/book/4-87783-049-9.html),
 	カットシステム, 311 pages (July 2002).

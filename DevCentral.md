@@ -6,6 +6,8 @@ F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for enginee
 
 #### Technical Articles
 
+- [iControl REST + jq Cookbook - Part 1: Basics](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-1), 2021-01-21.
+- [iControl REST + jq Cookbook - Readme](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook), 2021-01-21.
 - [AS3 Best Practice](https://devcentral.f5.com/s/articles/AS3-Best-Practice), 2020-07-17.
 - [iControl REST Authentication Token Management](https://devcentral.f5.com/s/articles/iControl-REST-Authentication-Token-Management), 2020-05-13.
 - [iRules LX Sideband Connection - Handling timeouts](https://devcentral.f5.com/s/articles/Robust-iRules-LX-Sideband-Connection), 2019-10-21.
