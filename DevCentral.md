@@ -6,6 +6,8 @@ F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for enginee
 
 #### Technical Articles
 
+- [iControl REST + jq Cookbook - Part 3: Advanced Topics](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-3-Advanced-Topics), 2021-02-04.
+- [iControl REST + jq Cookbook - Part 2: Intermediate](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-2-Intermediate), 2021-01-28.
 - [iControl REST + jq Cookbook - Part 1: Basics](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-1), 2021-01-21.
 - [iControl REST + jq Cookbook - Readme](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook), 2021-01-21.
 - [AS3 Best Practice](https://devcentral.f5.com/s/articles/AS3-Best-Practice), 2020-07-17.

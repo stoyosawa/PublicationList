@@ -1,6 +1,6 @@
 ## Publication List
 Satoshi Toyosawa, DSc.
-Last updated: 2021-01-22.
+Last updated: 2021-02-05.
 
 - [Academic papers](./papers.md)
 - [Commercially published books](./Books.md)
