@@ -4,7 +4,7 @@
 
 日本語のものが正式な書名です。英語タイトルは参考までで、（筆者の心変わりから）変更されることもあります。
 
-The official titles are in Japanese. The English ones are informational and is subject to change.
+The official titles are in Japanese. The English ones are informational and subject to change.
 
 #### In Japanese
 
