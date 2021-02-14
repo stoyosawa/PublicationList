@@ -1,10 +1,15 @@
 ## Commercial Books
 
+### Original work
 
-#### Original work
+日本語のものが正式な書名です。英語タイトルは参考までで、（筆者の心変わりから）変更されることもあります。
 
-- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	カットシステム, 378 pages (Janyary 2021).
+The official titles are in Japanese. The English ones are informational and is subject to change.
+
+#### In Japanese
+
+- 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
+	カットシステム, 378 pages (Janyary 2021)
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	カットシステム, 529 pages (July 2020).
 - 豊沢聡, 大間哲著 & 加藤ゆきの, [情報処理エンジニア職業ガイド](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
@@ -13,17 +18,17 @@
 	カットシステム, 406 pages (Auguest 2017).
 - 豊沢聡 & ペスカ一実, [IT系のわかるようなわからないような英語のお話](http://www.cutt.co.jp/book/978-4-87783-372-5.html),
 	カットシステム, 257 pages (August 2015).
-- 桑井博之, 豊沢聡 & 永田雅人, [実践 OpenCV 2.4 for Python](http://www.cutt.co.jp/book/978-4-87783-346-6.html),
+- 桑井博之, 豊沢聡 & 永田雅人, [実践 OpenCV 2.4 for Python 映像処理と解析](http://www.cutt.co.jp/book/978-4-87783-346-6.html),
 	カットシステム, 332 pages (June 2014).
 - 豊沢聡, [C言語はじめの一歩 第2版](http://www.cutt.co.jp/book/978-4-87783-334-3.html),
 	カットシステム, 295 pages (December 2013).
-- 永田雅人, 豊沢聡, 北山洋幸 & 酒井雅裕, [実践 OpenCV 2.4](http://www.cutt.co.jp/book/978-4-87783-184-4.html),
+- 永田雅人, 豊沢聡, 北山洋幸 & 酒井雅裕, [実践 OpenCV 2.4 映像処理と解析](http://www.cutt.co.jp/book/978-4-87783-184-4.html),
 	カットシステム, 352 pages (February 2013).
 - 豊沢聡 & 永田雅人, [ディジタル映像分析](http://www.cutt.co.jp/book/978-4-87783-183-7.html),
 	カットシステム, 298 pages (August 2012).
 - 豊沢聡, [LaTeX の精義](http://www.cutt.co.jp/book/978-4-87783-230-8.html),
 	カットシステム, 383 pages (December 2009).
-- 永田雅人 & 豊沢聡, [実践 OpenCV](http://www.cutt.co.jp/book/978-4-87783-203-2.html),
+- 永田雅人 & 豊沢聡, [実践 OpenCV - 映像処理と解析](http://www.cutt.co.jp/book/978-4-87783-203-2.html),
 	カットシステム, 275 pages (June 2009).
 - 豊沢聡 & のりぞう, [試せばわかる! コマンドで理解する TCP/IP](http://asciimw.jp/search/isbn/978-4-7561-5144-5),
 	アスキー, 255 pages (March 2008).
@@ -33,13 +38,13 @@
 	カットシステム, 163 pages (July 2007).
 - 豊沢聡, [情報演習8 ステップ30 Java ワークブック](http://www.cutt.co.jp/book/4-87783-824-4.html),
 	カットシステム, 143 pages (December 2006).
-- 趙森 & 池沢茉莉, [Visual C# .net ではじめる TCP ネットワークプログラミング3 SMTP/POP3 編](http://www.cutt.co.jp/book/4-87783-126-6.html)
+- 趙森 & 池沢茉莉<sup>†</sup>, [Visual C# .net ではじめる TCP ネットワークプログラミング3 SMTP/POP3 編](http://www.cutt.co.jp/book/4-87783-126-6.html)
 	カットシステム, 277 pages (June 2005)
 - 豊沢聡 & 奥村秀樹, [スタイルでキメル! 英語で書く論文・レポート](http://www.cutt.co.jp/book/4-87783-128-2.html),
 	カットシステム, 149 pages (November 2004).
-- 趙森 & 池沢桃子, [Visual C# .net ではじめる TCP ネットワークプログラミング2 FTP 編](http://www.cutt.co.jp/book/4-87783-125-8.html),
+- 趙森 & 池沢桃子<sup>†</sup>, [Visual C# .net ではじめる TCP ネットワークプログラミング2 FTP 編](http://www.cutt.co.jp/book/4-87783-125-8.html),
 	カットシステム, 239 pages (September 2004).
-- 趙森 & 池沢桃子, [Visual C# .net ではじめる TCP ネットワークプログラミング](http://www.cutt.co.jp/book/4-87783-105-3.html),
+- 趙森 & 池沢桃子<sup>†</sup>, [Visual C# .net ではじめる TCP ネットワークプログラミング](http://www.cutt.co.jp/book/4-87783-105-3.html),
 	カットシステム, 230 pages (February 2004)  
 - 豊沢聡, [C言語 はじめの一歩](http://www.cutt.co.jp/book/978-4-87783-334-3.html),
 	カットシステム, 251 pages (November 2003).
@@ -49,6 +54,61 @@
 	カットシステム, 270 pages (February 2003).
 - 豊沢聡, [実践 Java ネットワークプログラミング](http://www.cutt.co.jp/book/4-87783-049-9.html),
 	カットシステム, 311 pages (July 2002).
+
+† 共同筆名
+
+#### In English (Informational)
+
+The titles above are translated to English for English reders. Note that they are informational and not the official titles.
+
+- Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
+	Cutt System, 378 pages (Janyary 2021).
+- Toyosawa, [Node.js Explained － API and Examples](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
+	Cutt System, 529 pages (July 2020).
+- Toyosawa, Ohma & Kato, [A Guide to Information Engineers](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
+	Cutt System, 320 pages (August 2019).
+- Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](http://www.cutt.co.jp/book/978-4-87783-380-0.html),
+	Cutt System, 406 pages (Auguest 2017).
+- Toyosawa & Pestka, [Small Talk on IT Jargons (2nd Edition)](http://www.cutt.co.jp/book/978-4-87783-372-5.html),
+	Cutt System, 257 pages (August 2015).
+- Kiwai, Toyosawa & Nagata, [Practical Image Processing and Analysis with OpenCV 2.4 for Python](http://www.cutt.co.jp/book/978-4-87783-346-6.html),
+	Cutt System, 332 pages (June 2014).
+- Toyosawa, [Read Me First - C Language (2nd Edition)](http://www.cutt.co.jp/book/978-4-87783-334-3.html),
+	Cutt System, 295 pages (December 2013).
+- Nagata Toyosawa, Kitayama & Sakai, [Practical Image Processing and Analysis with OpenCV 2.4 for C](http://www.cutt.co.jp/book/978-4-87783-184-4.html),
+	Cutt System, 352 pages (February 2013).
+- Tyoyosawa & Nagata, [Introduction to Digital Video Processing](http://www.cutt.co.jp/book/978-4-87783-183-7.html),
+	Cutt System, 298 pages (August 2012).
+- Toyosawa, [LaTeX Essentials](http://www.cutt.co.jp/book/978-4-87783-230-8.html),
+	Cutt System, 383 pages (December 2009).
+- Nagata & Toyosawa, [Practical Image Processing and Analysis with OpenCV](http://www.cutt.co.jp/book/978-4-87783-203-2.html),
+	Cutt System, 275 pages (June 2009).
+- Toyosawa & Norizo, [TCP/IP and Windows Commands](http://asciimw.jp/search/isbn/978-4-7561-5144-5),
+	Ascii, 255 pages (March 2008).
+- Shin<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net (2nd Edition)](http://www.cutt.co.jp/book/4-87783-182-0.html),
+	カットシステム, 213 pages (January 2008).
+- Toyosawa & Okumura, [A Guide to Effective Essays and Papers (Word 2007 Edition)](http://www.cutt.co.jp/book/4-87783-156-1.html),
+	Cutt System, 163 pages (July 2007).
+- Toyosawa, [Java Workbook](http://www.cutt.co.jp/book/4-87783-824-4.html),
+	Cutt System, 143 pages (December 2006).
+- Shin & Ikezawa<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net - SMTP and POP3](http://www.cutt.co.jp/book/4-87783-126-6.html)
+	カットシステム, 277 pages (June 2005)
+- Toyosawa & Okumura, [A Guide to Effective Essays and Papers (Word 2003 Edition)](http://www.cutt.co.jp/book/4-87783-128-2.html),
+	Cutt System, 149 pages (November 2004).
+- Shin & Ikezawa<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net - FTP](http://www.cutt.co.jp/book/4-87783-125-8.html),
+	Cutt System, 239 pages (September 2004).
+- Shin & Ikezawa<sup>†</sup> [TCP/IP Network Programming with Visual C# .net - Fundamentals](http://www.cutt.co.jp/book/4-87783-105-3.html),
+	Cutt System, 230 pages (February 2004)  
+- Toyosawa, [Read Me First - C Language](http://www.cutt.co.jp/book/978-4-87783-334-3.html),
+	Cutt System, 251 pages (November 2003).
+- Toyosawa, [Read Me First - Perl](http://www.cutt.co.jp/book/4-87783-075-8.html),
+	Cutt System, 199 pages (May 2003).
+- Toyosawa, [Small Talk on IT Jargons](http://www.cutt.co.jp/book/4-87783-079-0.html),
+	Cutt System, 270 pages (February 2003).
+- Toyosawa, [Practical Java Network Programming](http://www.cutt.co.jp/book/4-87783-049-9.html),
+	Cutt System, 311 pages (July 2002).
+
+† Nom de plume
 
 #### Translation work
 
@@ -66,7 +126,7 @@
 	New Riders, 288 pages (March 2009).
 - Diana M. Fisher,
 	[Modeling Dynamic Systems: Lessons for a First Course (1st edition)](https://www.iseesystems.com/store/books/modeling-dynamic-systems/),
-	isee systems
+	isee systems.
 - Silvia Hagen,
 	[IPv6 Essentials 2nd Edition](https://www.oreilly.com/library/view/ipv6-essentials-2nd/0596100582/),
 	O'Reilly, 418 pages (May 2006).
