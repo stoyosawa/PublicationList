@@ -9,7 +9,7 @@ The official titles are in Japanese. The English ones are informational and subj
 #### In Japanese
 
 - 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	カットシステム, 378 pages (Janyary 2021)
+	カットシステム, 378 pages (January 2021)
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	カットシステム, 529 pages (July 2020).
 - 豊沢聡, 大間哲著 & 加藤ゆきの, [情報処理エンジニア職業ガイド](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
@@ -59,16 +59,16 @@ The official titles are in Japanese. The English ones are informational and subj
 
 #### In English (Informational)
 
-The titles above are translated to English for English reders. Note that they are informational and not the official titles.
+The titles above are translated to English for English readers. Note that they are informational and not the official titles.
 
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	Cutt System, 378 pages (Janyary 2021).
+	Cutt System, 378 pages (January 2021).
 - Toyosawa, [Node.js Explained － API and Examples](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	Cutt System, 529 pages (July 2020).
 - Toyosawa, Ohma & Kato, [A Guide to Information Engineers](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
 	Cutt System, 320 pages (August 2019).
 - Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](http://www.cutt.co.jp/book/978-4-87783-380-0.html),
-	Cutt System, 406 pages (Auguest 2017).
+	Cutt System, 406 pages (August 2017).
 - Toyosawa & Pestka, [Small Talk on IT Jargons (2nd Edition)](http://www.cutt.co.jp/book/978-4-87783-372-5.html),
 	Cutt System, 257 pages (August 2015).
 - Kiwai, Toyosawa & Nagata, [Practical Image Processing and Analysis with OpenCV 2.4 for Python](http://www.cutt.co.jp/book/978-4-87783-346-6.html),
@@ -110,7 +110,7 @@ The titles above are translated to English for English reders. Note that they ar
 
 † Nom de plume
 
-#### Translation work
+### Translation work
 
 - Luciano Ramalho,
 	[Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/),
