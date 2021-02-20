@@ -2,8 +2,8 @@
 
 ### Original work
 
-日本語のものが正式な書名です。英語タイトルは参考までで、（筆者の心変わりから）変更されることもあります。  
-The official titles are in Japanese. The English ones are informational and subject to change.
+日本語のものが正式な書名です。続く英語タイトルは参考までで、（筆者の心変わりから）変更されることもあります。  
+The official titles are in Japanese. The English titles that follow are informational and subject to change.
 
 - 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	カットシステム, 378 pages (January 2021)
@@ -29,7 +29,7 @@ The official titles are in Japanese. The English ones are informational and subj
 	カットシステム, 275 pages (June 2009).
 - 豊沢聡 & のりぞう, [試せばわかる! コマンドで理解する TCP/IP](http://asciimw.jp/search/isbn/978-4-7561-5144-5),
 	アスキー, 255 pages (March 2008).
-- 趙森, [Visual C# .net ではじめるネットワークプログラミング 基礎編1](http://www.cutt.co.jp/book/4-87783-182-0.html),
+- 趙森<sup>†</sup>, [Visual C# .net ではじめるネットワークプログラミング 基礎編1](http://www.cutt.co.jp/book/4-87783-182-0.html),
 	カットシステム, 213 pages (January 2008).
 - 豊沢聡 & 奥村秀樹, [英語で書く論文・レポート Word 2007 活用法](http://www.cutt.co.jp/book/4-87783-156-1.html),
 	カットシステム, 163 pages (July 2007).
@@ -108,59 +108,46 @@ The official titles are in Japanese. The English ones are informational and subj
 日本語でのタイトルを先に示し、続いて原著の書誌情報を示します。  
 The Japanese (translated) titles, then the original English titles (with the original bibliographies) follow.
 
-- 梶原玲子訳; 豊沢聡, 桑井博之監訳,
-	[Fluent Python ― Pythonicな思考とコーディング手法](https://www.oreilly.co.jp/books/9784873118178/),
+- 梶原玲子訳; 豊沢聡, 桑井博之監訳, [Fluent Python ― Pythonicな思考とコーディング手法](https://www.oreilly.co.jp/books/9784873118178/),
 	オライリー・ジャパン, 823 pages (October 2017).
-- 豊沢聡訳; 三浦史光監訳,
-	[詳説 イーサネット 第2版](https://www.oreilly.co.jp/books/9784873117171/),
+- 豊沢聡訳; 三浦史光監訳,	[詳説 イーサネット 第2版](https://www.oreilly.co.jp/books/9784873117171/),
 	オライリー・ジャパン, 505 pages (June 2015).
-- 池田成樹, 永田雅人訳; 豊沢聡監訳,
-	[OpenCL 詳説](https://www.cutt.co.jp/book/978-4-87783-256-8.html),
+- 池田成樹, 永田雅人訳; 豊沢聡監訳, [OpenCL 詳説](https://www.cutt.co.jp/book/978-4-87783-256-8.html),
 	カットシステム, 450 pages (September 2011).
-- 松田晃一訳 (未記名),
-	[UX デザインプロジェクトガイド](https://www.cutt.co.jp/book/978-4-87783-261-2.html),
+- 松田晃一訳<sup>†</sup>, [UX デザインプロジェクトガイド](https://www.cutt.co.jp/book/978-4-87783-261-2.html),
 	カットシステム, 286 pages (March 2011).
-- 豊沢聡訳; バーシティウェーブ協力,
-	[システムダイナミックスモデリング入門](https://www.cutt.co.jp/book/978-4-87783-112-7.html),
+- 豊沢聡訳; バーシティウェーブ協力,	[システムダイナミックスモデリング入門](https://www.cutt.co.jp/book/978-4-87783-112-7.html),
 	カットシステム, 287 pages (June 2008).
-- 豊沢聡訳; 市原英也監訳,
-	[IPv6 エッセンシャルズ 第2版](https://www.oreilly.co.jp/books/9784873113289/),
+- 豊沢聡訳; 市原英也監訳,	[IPv6 エッセンシャルズ 第2版](https://www.oreilly.co.jp/books/9784873113289/),
 	オライリー・ジャパン, 517 pages (June 2007).
-- 豊沢聡訳; 市原英也監訳,
-	[IPv6 エッセンシャルズ](https://www.oreilly.co.jp/books/4873111234/),
+- 豊沢聡訳; 市原英也監訳,	[IPv6 エッセンシャルズ](https://www.oreilly.co.jp/books/4873111234/),
 	オライリー・ジャパン, 379 pages (April 2003).
-- 豊沢聡訳; 金崎裕己監訳,
-	[SAN & NAS ストレージエリアネットワーク](https://www.oreilly.co.jp/books/4873110998/),
+- 豊沢聡訳; 金崎裕己監訳,	[SAN & NAS ストレージエリアネットワーク](https://www.oreilly.co.jp/books/4873110998/),
 	オライリー・ジャパン, 249 pages (October 2002).
-- 日高昇治, 中原晃司, 梶浦正規, 今井孝, 青山俊昭, 豊沢聡, 楠田哲也, 高山和郎訳; 中村直司監修,
-	[データウェブハウス・ツールキット](http://www.cutt.co.jp/book/4-87783-028-6.html),
-  	カットシステム, 424 pages (December 2000).
+- 日高昇治, 中原晃司, 梶浦正規, 今井孝, 青山俊昭, 豊沢聡, 楠田哲也, 高山和郎訳; 中村直司監修, [データウェブハウス・ツールキット](http://www.cutt.co.jp/book/4-87783-028-6.html),
+	カットシステム, 424 pages (December 2000).
+- 森崎正人, 豊沢聡訳, [MIT アテナプロジェクトのすべて](https://www.cutt.co.jp/book/4-87783-017-0.html),
+	カットシステム, 336 pages (May 2000).
 
-- Charles E. Spurgeon & Joann Zimmerman,
-	[Ethernet: The Definitive Guide, 2nd Edition](https://www.oreilly.com/library/view/ethernet-the-definitive/9781449362980/),
+† 未記名 (uncredited work)
+
+- Luciano Ramalho, [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/),
+	O'Reilly Media, 743 pages (August 2015).
+- Charles E. Spurgeon & Joann Zimmerman, [Ethernet: The Definitive Guide, 2nd Edition](https://www.oreilly.com/library/view/ethernet-the-definitive/9781449362980/),
 	O'Reilly Media, 508 pages (April 2014).
-- Khronos OpenCL Working Group & Aaftab Munshi,
-	[The OpenCL Specification Version 1.1.44](https://www.khronos.org/registry/OpenCL/specs/opencl-1.2.pdf),
+- Khronos OpenCL Working Group & Aaftab Munshi, [The OpenCL Specification Version 1.1.44](https://www.khronos.org/registry/OpenCL/specs/opencl-1.2.pdf),
 	Khronos Group.
-- Russ Unger & Carolyn Chandler,
-	[A Project Guide to UX Design](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376),
+- Russ Unger & Carolyn Chandler, [A Project Guide to UX Design](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376),
 	New Riders, 288 pages (March 2009).
-- Diana M. Fisher,
-	[Modeling Dynamic Systems: Lessons for a First Course (1st edition)](https://www.iseesystems.com/store/books/modeling-dynamic-systems/),
+- Diana M. Fisher, [Modeling Dynamic Systems: Lessons for a First Course (1st edition)](https://www.iseesystems.com/store/books/modeling-dynamic-systems/),
 	isee systems.
-- Silvia Hagen,
-	[IPv6 Essentials 2nd Edition](https://www.oreilly.com/library/view/ipv6-essentials-2nd/0596100582/),
+- Silvia Hagen, [IPv6 Essentials 2nd Edition](https://www.oreilly.com/library/view/ipv6-essentials-2nd/0596100582/),
 	O'Reilly, 418 pages (May 2006).
-- Silvia Hagen,
-	[IPv6 Essentials](https://www.oreilly.com/library/view/ipv6-essentials/0596001258/),
+- Silvia Hagen, [IPv6 Essentials](https://www.oreilly.com/library/view/ipv6-essentials/0596001258/),
 	O'Reilly, 338 pages (July 2002).
-- W. Curtis Preston,
-	[Using SANs and NAS](https://www.oreilly.com/library/view/using-sans-and/0596001533/),
+- W. Curtis Preston, [Using SANs and NAS](https://www.oreilly.com/library/view/using-sans-and/0596001533/),
 	O'Reilly, 218 pages (February 2002).
-- Ralf Kimball & Richard Merz,
-	[The Data WebHouse Toolkit](https://www.amazon.com/Data-Webhouse-Toolkit-Web-Enabled-Warehouse/dp/B010EUHZ1C),
+- Ralf Kimball & Richard Merz, [The Data WebHouse Toolkit](https://www.amazon.com/Data-Webhouse-Toolkit-Web-Enabled-Warehouse/dp/B010EUHZ1C),
 	Wiley, 401 pages (January 2000).
-- George Champine,
-	[MIT Project Athena - A Model for Distributed Campus Computing](https://www.amazon.com/MIT-Project-Athena-Distributed-Computing/dp/1493305794),
+- George Champine, [MIT Project Athena - A Model for Distributed Campus Computing](https://www.amazon.com/MIT-Project-Athena-Distributed-Computing/dp/1493305794),
 	Digital Press, 282 pages (May 1991).
-

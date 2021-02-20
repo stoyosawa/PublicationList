@@ -8,4 +8,4 @@ Satoshi Toyosawa, DSc.
 - [F5 DevCentral Technical articles](./DevCentral.md)
 - [Patents](./Patents.md)
 
-Last updated: 2021-02-14.
+Last updated: 2021-02-20.
