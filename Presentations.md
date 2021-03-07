@@ -6,7 +6,7 @@ Presentations at non-academic conferences.
 - Satoshi Toyosawa, Semantic Analysis of Video Contents, in Natural Science Forum, [International Christian University](https://www.icu.ac.jp/en/), June 2012.
 
 
-#### F5 Tech Summit Presentations
+### F5 Tech Summit Presentations
 
 F5 Tech Summit is an internal conference for developers, support engineers and consultants to discuss the latest F5 technologies, use-cases, and issues and effective ways to resolve them. It is held twice a year (June and December) at Seattle, WA. Due to the Covid-19 pandemic, it is currently held only once a year (July) remotely.
 
