@@ -2,11 +2,11 @@
 
 ### Original work
 
-日本語のものが正式な書名です。続く英語タイトルは参考までで、（筆者の心変わりから）変更されることもあります。  
+日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
 The official titles are in Japanese. The English titles that follow are informational and subject to change.
 
 - 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	カットシステム, 378 pages (January 2021)
+	カットシステム, 378 pages (January 2021).
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
 	カットシステム, 529 pages (July 2020).
 - 豊沢聡, 大間哲著 & 加藤ゆきの, [情報処理エンジニア職業ガイド](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
