@@ -1,6 +1,6 @@
 ## Publication List
 
-Satoshi Toyosawa, DSc.
+Satoshi Toyosawa (豊沢 聡), DSc.
 
 - [Academic papers](./papers.md)
 - [Commercially published books](./Books.md)
@@ -8,5 +8,3 @@ Satoshi Toyosawa, DSc.
 - [F5 DevCentral Technical articles](./DevCentral.md)
 - [Presentations](./Presentations.md)
 - [Patents](./Patents.md)
-
-Last updated: 2021-03-07.
