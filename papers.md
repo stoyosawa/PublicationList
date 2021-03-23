@@ -1,5 +1,7 @@
 ## Academic papers
 
+Some papers are available from [Research Gate](https://www.researchgate.net/profile/Satoshi-Toyosawa).
+
 - Satoshi Toyosawa, Takshi Kawai & Hiroshi Morikawa,
 	"Effects of font design to the perceived affect of readers",
 	Proceeding of 2015 Anual Coference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015).

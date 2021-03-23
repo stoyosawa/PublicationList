@@ -4,7 +4,7 @@ F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for enginee
 
 - [Satoshi Toyosawa Profile](https://devcentral.f5.com/s/profile/0051T000008tySCQAY)
 
-#### Technical Articles
+### Technical Articles
 
 - [iControl REST + jq Cookbook - Part 3: Advanced Topics](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-3-Advanced-Topics), 2021-02-04.
 - [iControl REST + jq Cookbook - Part 2: Intermediate](https://devcentral.f5.com/s/articles/iControl-REST-jq-Cookbook-Part-2-Intermediate), 2021-01-28.
@@ -25,4 +25,4 @@ F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for enginee
 - [Snippet #6: Converting Internationalized Domain Name with LineRate](https://devcentral.f5.com/articles/snippet-6-converting-internationalized-domain-name-with-linerate), 2015-01-29.
 - [Snippet #4: LineRate and GeoIP Node.js module](https://devcentral.f5.com/articles/snippet-4-linerate-and-geoip-nodejs-module), 2014-12-29.
 - [Inserting X-Forwarded-For header with LineRate](https://devcentral.f5.com/articles/inserting-x-forwarded-for-header-with-linerate), 2014-12-29.
-  
+
