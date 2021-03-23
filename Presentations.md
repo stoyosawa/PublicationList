@@ -13,7 +13,6 @@ F5 Tech Summit is an internal conference for developers, support engineers and c
 - Satoshi Toyosawa & Madhu Rajagopal, iRules LX - Use Cases, Performance and Gotchas, June 2018. <!--- Presented by Satoshi: LearnF5: https://f5u.csod.com/LMS/Video/LaunchVideo.aspx?loid=e8ffe278-b4a0-4b05-b9be-9c3cba2a6baa -->
 - Satoshi Toyosawa & Madhu Rajagopal, iRules LX - Gotchas and Performance, December 2018. <!--- Presented by Satoshi: LearnF5: https://f5u.csod.com/LMS/Video/LaunchVideo.aspx?loid=c8ff1a8c-f9b0-4281-b6d9-cc3da0a0c69e -->
 - Madhu Rajagopal & Satoshi Toyosawa, iRules LX - Use Cases and Performance, June 2019. <!-- Presented by Madhu: LearnF5: https://f5u.csod.com/LMS/Video/LaunchVideo.aspx?loid=2594c161-7103-4fb3-88d0-9e7d3789bb77 -->
-- Satoshi Toyosawa & Madhu Rajagopal, iRules LX Lab, June 2019. - Satoshi Toyosawa & Madhu Rajagopal, iRules LX Defensive Sideband Connection Coding, December 2019.
- <!-- Presented by Satoshi: LearnF5: https://f5u.csod.com/LMS/Video/LaunchVideo.aspx?loid=0c9ac811-2826-4a01-a4d7-110b31f226a7 -->
+- Satoshi Toyosawa & Madhu Rajagopal, iRules LX Lab, June 2019. - Satoshi Toyosawa & Madhu Rajagopal, iRules LX Defensive Sideband Connection Coding, December 2019. <!-- Presented by Satoshi: LearnF5: https://f5u.csod.com/LMS/Video/LaunchVideo.aspx?loid=0c9ac811-2826-4a01-a4d7-110b31f226a7 -->
 - Satoshi Toyosawa & Madhu Rajagopal, iControl REST Activity Monitoring, June 2020.
 
