@@ -70,7 +70,7 @@ The official titles are in Japanese. The English titles that follow are informat
 	Cutt System, 295 pages (December 2013).
 - Nagata Toyosawa, Kitayama & Sakai, [Practical Image Processing and Analysis with OpenCV 2.4 for C](http://www.cutt.co.jp/book/978-4-87783-184-4.html),
 	Cutt System, 352 pages (February 2013).
-- Tyoyosawa & Nagata, [Introduction to Digital Video Processing](http://www.cutt.co.jp/book/978-4-87783-183-7.html),
+- Toyosawa & Nagata, [Introduction to Digital Video Processing](http://www.cutt.co.jp/book/978-4-87783-183-7.html),
 	Cutt System, 298 pages (August 2012).
 - Toyosawa, [LaTeX Essentials](http://www.cutt.co.jp/book/978-4-87783-230-8.html),
 	Cutt System, 383 pages (December 2009).
