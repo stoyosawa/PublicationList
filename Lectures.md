@@ -1,5 +1,7 @@
 ## Lectures
 
+高等教育機関での講義一覧
+
 ### Tokuyama University 2011-2014
 
 - 教養ゼミ I (Academic Literacy I)
@@ -16,6 +18,10 @@
 - 専門ゼミ I (Seminor in Information Technology I)
 - 専門ゼミ II (Seminor in Information Technology II)
 
-### International Christian University 20
+### International Christian University 2010-2013
 
 - ネットワーク情報活用 (Digital Network Information Literacy)
+
+### Tokyo Metropolitan Jonan Vocational Skills Development Center 2006-2010
+
+- ネットワーク構築技術 (TCP Computer Network and Linux Server Administration)
