@@ -1,8 +1,11 @@
 ## Lectures
 
-高等教育機関での講義一覧
+高等教育機関での講義一覧  
+A list of lectures at tertiary institutes.
 
-### Tokuyama University 2011-2014
+### [徳山大学](https://www.tokuyama-u.ac.jp/) 2011-2014
+
+Tokuyama University, Yamaguchi, Japan.
 
 - 教養ゼミ I (Academic Literacy I)
 - 教養ゼミ II (Academic Literacy II)
@@ -18,10 +21,14 @@
 - 専門ゼミ I (Seminor in Information Technology I)
 - 専門ゼミ II (Seminor in Information Technology II)
 
-### International Christian University 2010-2013
+### [国際基督教大学](https://www.icu.ac.jp/) 2010-2013
+
+International Christian University, Tokyo, Japan.
 
 - ネットワーク情報活用 (Digital Network Information Literacy)
 
-### Tokyo Metropolitan Jonan Vocational Skills Development Center 2006-2010
+### [都立職業能力開発センター](https://www.hataraku.metro.tokyo.lg.jp/kyushokusha-kunren/school/index.html) 2006-2010
+
+Tokyo Metropolitan Jonan Vocational Skills Development Center, Tokyo, Japan.
 
 - ネットワーク構築技術 (TCP Computer Network and Linux Server Administration)
