@@ -5,6 +5,8 @@
 日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
 The official titles are in Japanese. The English titles that follow are informational and subject to change.
 
+- 豊沢 聡, [jq ハンドブック](),
+	カットシステム, 印刷中.
 - 永田雅人 & 豊沢聡, [実践OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	カットシステム, 378 pages (January 2021).
 - 豊沢聡, [詳説Node.js － APIリファレンスと用例](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
@@ -35,7 +37,7 @@ The official titles are in Japanese. The English titles that follow are informat
 	カットシステム, 163 pages (July 2007).
 - 豊沢聡, [情報演習8 ステップ30 Java ワークブック](http://www.cutt.co.jp/book/4-87783-824-4.html),
 	カットシステム, 143 pages (December 2006).
-- 趙森 & 池沢茉莉<sup>†</sup>, [Visual C# .net ではじめる TCP ネットワークプログラミング3 SMTP/POP3 編](http://www.cutt.co.jp/book/4-87783-126-6.html)
+- 趙森 & 池沢茉莉<sup>†</sup>, [Visual C# .net ではじめる TCP ネットワークプログラミング3 SMTP/POP3 編](http://www.cutt.co.jp/book/4-87783-126-6.html),
 	カットシステム, 277 pages (June 2005)
 - 豊沢聡 & 奥村秀樹, [スタイルでキメル! 英語で書く論文・レポート](http://www.cutt.co.jp/book/4-87783-128-2.html),
 	カットシステム, 149 pages (November 2004).
@@ -54,6 +56,8 @@ The official titles are in Japanese. The English titles that follow are informat
 
 † 共同筆名
 
+- Toyosawa, [jq Handbook](),
+	Cutt Sysytem, Printing.
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	Cutt System, 378 pages (January 2021).
 - Toyosawa, [Node.js Explained － API and Examples](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
