@@ -34,12 +34,12 @@ and other shops.
 	- Mouse input 1 - Paint application
 	- Mouse input 2 - Miniturization
 	- Mouse input 3 - Projective transformation
-	- Runtime measurement - Morphorogy operations
+	- Runtime measurement - Morphology operations
 
 4. Color Channels and Masks
 	- Splitting and merging colors
 	- HSV and postarization
-	- Masking - Chromakey and image compositing
+	- Masking - Chroma-key and image compositing
 
 5. Image Operations
 	- Pixel operations - Pixelization
@@ -65,7 +65,7 @@ and other shops.
 	- Face detection - Single Shot MultipleBox Detector (Liu 2016)
 	- Generic object detection - COCO (Lin 2015)
 
-Appendix
+9. Appendix
 	- Installing OpenCV+Python on Windows
 	- Installing OpenCV+Python on Mac
 	- Installing Visual Studio Code
