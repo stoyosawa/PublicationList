@@ -61,7 +61,7 @@ The official titles are in Japanese. The English titles that follow are informat
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	Cutt System, 378 pages (January 2021). See [TOC](./TOC/2021-OpenCV-Python.md).
 - Toyosawa, [Node.js Explained － API and Examples](http://www.cutt.co.jp/book/978-4-87783-489-0.html),
-	Cutt System, 529 pages (July 2020).
+	Cutt System, 529 pages (July 2020). See [TOC](./TOC/2020-Node.md).
 - Toyosawa, Ohma & Kato, [A Guide to Information Engineers](http://www.cutt.co.jp/book/978-4-87783-463-0.html),
 	Cutt System, 320 pages (August 2019).
 - Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](http://www.cutt.co.jp/book/978-4-87783-380-0.html),
