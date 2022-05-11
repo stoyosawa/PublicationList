@@ -15,14 +15,14 @@ F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for enginee
 - [iRules LX Sideband Connection - Handling timeouts](https://devcentral.f5.com/s/articles/Robust-iRules-LX-Sideband-Connection), 2019-10-21.
 - [iControl REST Cookbook - LTM policy (ltm policy)](https://devcentral.f5.com/s/articles/icontrol-rest-cookbook-ltm-policy-ltm-policy-33300), 2019-02-14.
 - [Creating iRules LX via iControl REST](https://devcentral.f5.com/s/articles/creating-irules-lx-via-icontrol-rest-33119), 2019-01-18.
-- [iControl REST Fine-Grained Role Based Access Control](https://devcentral.f5.com/articles/icontrol-rest-fine-grained-role-based-access-control-30773), 2018-11-10.
-- [iControl REST Cookbook - Virtual Server Profile (LTM Virtual Profiles)](https://devcentral.f5.com/articles/icontrol-rest-cookbook-virtual-server-profile-ltm-virtual-vs-profiles-vs-31568), 2018-07-28.
-- [iControl REST Cookbook - Virtual Server (ltm virtual)](https://devcentral.f5.com/articles/icontrol-rest-cookbook-24575), 2017-01-03.
-- [iControl REST - Avoid using non UTF-8 characters](https://devcentral.f5.com/articles/icontrol-rest-request-fails-when-the-data-contains-non-utf-8-characters-24484), 2016-12-19.
-- [Mitigating the favicon bug through LineRate scripting](https://devcentral.f5.com/articles/mitigating-the-favicon-bug-through-linerate-scripting), 2015-06-29.
-- [Robot regulation with LineRate](https://devcentral.f5.com/articles/robot-regulation-with-linerate), 2015-03-12.
-- [A LineRate script with lengthy initialization process](https://devcentral.f5.com/articles/a-linerate-script-with-lengthy-initialization-process), 2015-02-19.
-- [Snippet #6: Converting Internationalized Domain Name with LineRate](https://devcentral.f5.com/articles/snippet-6-converting-internationalized-domain-name-with-linerate), 2015-01-29.
+- [iControl REST Fine-Grained Role Based Access Control](https://community.f5.com/t5/technical-articles/icontrol-rest-fine-grained-role-based-access-control/ta-p/287641), 2018-11-10.
+- [iControl REST Cookbook - Virtual Server Profile (LTM Virtual Profiles)](https://community.f5.com/t5/technical-articles/icontrol-rest-cookbook-virtual-server-profile-ltm-virtual/ta-p/287581), 2018-07-28.
+- [iControl REST Cookbook - Virtual Server (ltm virtual)](https://community.f5.com/t5/technical-articles/icontrol-rest-cookbook-virtual-server-ltm-virtual/ta-p/287546), 2017-01-03.
+- [iControl REST - Avoid using non UTF-8 characters](https://community.f5.com/t5/technical-articles/icontrol-rest-avoid-using-non-utf-8-characters/ta-p/287569), 2016-12-19.
+- [Mitigating the favicon bug through LineRate scripting](https://community.f5.com/t5/technical-articles/mitigating-the-favicon-bug-through-linerate-scripting/ta-p/287484), 2015-06-29.
+- [Robot regulation with LineRate](https://community.f5.com/t5/technical-articles/robot-regulation-with-linerate/ta-p/287489), 2015-03-12.
+- [A LineRate script with lengthy initialization process](https://community.f5.com/t5/technical-articles/a-linerate-script-with-lengthy-initialization-process/ta-p/287568), 2015-02-19.
+- [Snippet #6: Converting Internationalized Domain Name with LineRate](https://community.f5.com/t5/technical-articles/snippet-4-linerate-and-geoip-node-js-module/ta-p/287558), 2015-01-29.
 - [Snippet #4: LineRate and GeoIP Node.js module](https://devcentral.f5.com/articles/snippet-4-linerate-and-geoip-nodejs-module), 2014-12-29.
-- [Inserting X-Forwarded-For header with LineRate](https://devcentral.f5.com/articles/inserting-x-forwarded-for-header-with-linerate), 2014-12-29.
+- [Inserting X-Forwarded-For header with LineRate](https://community.f5.com/t5/technical-articles/inserting-x-forwarded-for-header-with-linerate/ta-p/287556), 2014-12-29.
 

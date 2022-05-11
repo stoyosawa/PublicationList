@@ -31,4 +31,4 @@ International Christian University, Tokyo, Japan.
 
 Tokyo Metropolitan Jonan Vocational Skills Development Center, Tokyo, Japan.
 
-- ネットワーク構築技術 (TCP Computer Network and Linux Server Administration)
+- ネットワーク構築技術 (TCP/IP Computer Network and Linux Server Administration)

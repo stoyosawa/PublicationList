@@ -1,6 +1,6 @@
 ## Presentations
 
-Presentations at non-academic conferences.
+Presentations for non-academic conferences.
 
 - Satoshi Toyosawa, Semantic Analysis of Video Contents, in Natural Science Forum, [International Christian University](https://www.icu.ac.jp/en/), June 2012.
 - Satoshi Toyosawa, Physiological and Psychological Implications of 3D Crosstalk, in 3D Ergonomic Seminar, [Digital Contents Expo 2010](https://www.dcexpo.jp/en/) at [the National Museum of Emerging Science and Innovation](https://www.miraikan.jst.go.jp/en/), October 2010.
