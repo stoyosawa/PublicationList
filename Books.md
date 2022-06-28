@@ -5,6 +5,8 @@
 日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
 The official titles are in Japanese. The English titles that follow are informational and subject to change.
 
+- 豊沢 聡, Python + Pillow/PIL - 画像の加工・補正・編集とその自動化 (仮題),
+	カットシステム, n 頁 (Printing).
 - 豊沢 聡, [jq ハンドブック](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
 	カットシステム, 264 頁 (2021年7月).
 - 永田雅人 & 豊沢聡, [実践 OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html),
