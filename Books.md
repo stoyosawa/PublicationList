@@ -5,8 +5,8 @@
 日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
 The English titles that follow are informational and subject to change.
 
-- 豊沢 聡，Python + Pillow/PIL - 画像の加工・補正・編集とその自動化（仮題)，
-	カットシステム，n頁（Printing）．
+- 豊沢 聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](http://cutt.co.jp/book/978-4-87783-525-5.html)，
+	カットシステム，372頁（2022年9月）．
 - 豊沢 聡，[jq ハンドブック](https://www.cutt.co.jp/book/978-4-87783-491-3.html)，
 	カットシステム，264頁（2021年7月）．
 - 永田雅人 & 豊沢聡，[実践 OpenCV 4 for Python 画像映像情報処理と機械学習](http://www.cutt.co.jp/book/978-4-87783-460-9.html)，
@@ -31,8 +31,8 @@ The English titles that follow are informational and subject to change.
 	カットシステム，383頁（2009年12月）．
 - 永田雅人 & 豊沢聡，[実践 OpenCV - 映像処理と解析](http://www.cutt.co.jp/book/978-4-87783-203-2.html)，
 	カットシステム，275頁（2009年6月）．
-- 豊沢聡 & のりぞう，[試せばわかる! コマンドで理解する TCP/IP](http://asciimw.jp/search/isbn/978-4-7561-5144-5)，
-	アスキー，255頁（2008年3月）．
+- 豊沢聡 & のりぞう，[試せばわかる! コマンドで理解する TCP/IP](https://www.amazon.co.jp/dp/4756151442)，
+	アスキー，255頁（2008年3月）．<!--- Ascii のサイトから消えたので、amazon で代替 --->
 - 趙森<sup>†</sup>，[Visual C# .net ではじめるネットワークプログラミング 基礎編1](http://www.cutt.co.jp/book/4-87783-182-0.html)，
 	カットシステム，213頁（2008年1月）．
 - 豊沢聡 & 奥村秀樹，[英語で書く論文・レポート Word 2007 活用法](http://www.cutt.co.jp/book/4-87783-156-1.html)，
@@ -58,6 +58,8 @@ The English titles that follow are informational and subject to change.
 
 † 共同筆名
 
+- Toyosawa, [Puthon + Pillow/PIL](http://cutt.co.jp/book/978-4-87783-525-5.html),
+	Cutt System, 372 pages (September 2022).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
 	Cutt Sysytem, 264 pages (July 2021).
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](http://www.cutt.co.jp/book/978-4-87783-460-9.html),

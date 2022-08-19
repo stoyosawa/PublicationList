@@ -3,9 +3,11 @@
 高等教育機関での講義一覧  
 A list of lectures at tertiary institutes.
 
-### [徳山大学](https://www.tokuyama-u.ac.jp/) 2011-2014
+### [徳山大学](https://www.shunan-u.ac.jp/) 2011-2014
 
 Tokuyama University, Yamaguchi, Japan.
+
+> 現周南公立大学（Shunan University)
 
 - 教養ゼミ I (Academic Literacy I)
 - 教養ゼミ II (Academic Literacy II)
