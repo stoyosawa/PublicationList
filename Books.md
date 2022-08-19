@@ -32,7 +32,8 @@ The English titles that follow are informational and subject to change.
 - 永田雅人 & 豊沢聡，[実践 OpenCV - 映像処理と解析](http://www.cutt.co.jp/book/978-4-87783-203-2.html)，
 	カットシステム，275頁（2009年6月）．
 - 豊沢聡 & のりぞう，[試せばわかる! コマンドで理解する TCP/IP](https://www.amazon.co.jp/dp/4756151442)，
-	アスキー，255頁（2008年3月）．<!--- Ascii のサイトから消えたので、amazon で代替 --->
+	アスキー，255頁（2008年3月）. 
+<!--- Ascii のサイトから消えたので、amazon で代替 --->
 - 趙森<sup>†</sup>，[Visual C# .net ではじめるネットワークプログラミング 基礎編1](http://www.cutt.co.jp/book/4-87783-182-0.html)，
 	カットシステム，213頁（2008年1月）．
 - 豊沢聡 & 奥村秀樹，[英語で書く論文・レポート Word 2007 活用法](http://www.cutt.co.jp/book/4-87783-156-1.html)，
