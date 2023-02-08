@@ -1,15 +1,17 @@
-## Commercial Books
+## Commercial Books / 商業出版
 
-### Original work
+著書・訳書はここまでで35冊。
+
+### Original work / 原著
 
 日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
 The English titles that follow are informational and subject to change.
 
-- 豊沢 聡, [TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/),
-	秀和システム, 印刷中（2023年2月）．
-- 豊沢 聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，
+- 豊沢聡, [TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html),
+	秀和システム, 428頁（2023年2月）．
+- 豊沢聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，
 	カットシステム，372頁（2022年9月）．
-- 豊沢 聡，[jq ハンドブック](https://www.cutt.co.jp/book/978-4-87783-491-3.html)，
+- 豊沢聡，[jq ハンドブック](https://www.cutt.co.jp/book/978-4-87783-491-3.html)，
 	カットシステム，264頁（2021年7月）．
 - 永田雅人 & 豊沢聡，[実践 OpenCV 4 for Python 画像映像情報処理と機械学習](https://www.cutt.co.jp/book/978-4-87783-460-9.html)，
 	カットシステム，378頁（2021年1月）．
@@ -60,8 +62,8 @@ The English titles that follow are informational and subject to change.
 
 † 共同筆名
 
-- Toyosawa, [Essential TCP/IP: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/),
-	Shuwa System, To be published (February 2023).
+- Toyosawa, [Essential TCP/IP: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/book/9784798068664.html),
+	Shuwa System, 428 pages (February 2023).
 - Toyosawa, [Puthon + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
 	Cutt System, 372 pages (September 2022).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
@@ -115,7 +117,7 @@ The English titles that follow are informational and subject to change.
 
 † Nom de plume
 
-### Translation work
+### Translation work / 訳書
 
 日本語でのタイトルを先に示し、続いて原著の書誌情報を示します。  
 The Japanese (translated) titles, then the original English titles (the original bibliographies) follow.
