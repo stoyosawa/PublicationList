@@ -1,13 +1,16 @@
 # Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python
 
+<!--- 652 x 841 -->
+<img src="https://www.cutt.co.jp/book/images/978-4-87783-460-9.png" width="300">
+
 Masato Nagata and Satoshi Toyosawa  
-Cutt Systems, 2021.
+Cutt Systems, Tokyo, Japan. 2021.
 
 Japanese edtion is available from
-[amazon.co.jp](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5OpenCV4-Python%E2%80%95%E7%94%BB%E5%83%8F%E6%98%A0%E5%83%8F%E6%83%85%E5%A0%B1%E5%87%A6%E7%90%86%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E6%B0%B8%E7%94%B0-%E9%9B%85%E4%BA%BA/dp/4877834605),
+[amazon.co.jp](https://www.amazon.co.jp/dp/4877834605),
 [honto](https://honto.jp/netstore/pd-book_30749005.html),
 [Yodobashi](https://www.yodobashi.com/product/100000009003381130/),
-and other shops.
+and other bookstores.
 
 ## Table of Contents
 
@@ -63,6 +66,3 @@ and other shops.
 	- Installing Visual Studio Code
 	- List of model files
 	- Deep learning model building - TensorFlow/Keras, handwriting recognnition (NIST), and generic object detection (ImageNet)
-
-
-![book cover](https://www.cutt.co.jp/book/images/978-4-87783-460-9.png)

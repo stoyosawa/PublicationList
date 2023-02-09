@@ -62,16 +62,16 @@ The English titles that follow are informational and subject to change.
 
 † 共同筆名
 
-- Toyosawa, [Essential TCP/IP: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/book/9784798068664.html),
-	Shuwa System, 428 pages (February 2023).
+- Toyosawa, [TCP/IP Essentials: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/book/9784798068664.html),
+	Shuwa System, 428 pages (February 2023). [TOC Here](./TOC/2023-TcpIp.md).
 - Toyosawa, [Puthon + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
-	Cutt System, 372 pages (September 2022).
+	Cutt System, 372 pages (September 2022). [TOC Here](./TOC/2022-Pillow.md).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
 	Cutt Sysytem, 264 pages (July 2021).
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](https://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	Cutt System, 378 pages (January 2021). See [TOC](./TOC/2021-OpenCV-Python.md).
+	Cutt System, 378 pages (January 2021). [TOC Here](./TOC/2021-OpenCV-Python.md).
 - Toyosawa, [Node.js Explained － API and Examples](https://www.cutt.co.jp/book/978-4-87783-489-0.html),
-	Cutt System, 529 pages (July 2020). See [TOC](./TOC/2020-Node.md).
+	Cutt System, 529 pages (July 2020). [TOC Here](./TOC/2020-Node.md).
 - Toyosawa, Ohma & Kato, [A Guide for Information Engineers](https://www.cutt.co.jp/book/978-4-87783-463-0.html),
 	Cutt System, 320 pages (August 2019).
 - Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](https://www.cutt.co.jp/book/978-4-87783-380-0.html),
