@@ -1,7 +1,18 @@
-## Lectures
+## Lectures / 講義
 
-高等教育機関での講義一覧  
-A list of lectures at tertiary institutes.
+高等教育機関およびオンラインコースでの講義一覧  
+A list of lectures at tertiary institutes and online courses.
+
+### [カットシステム](https://seminar.cutt.co.jp/)＋[未来デザイン会議](https://miraidesign.jimdofree.com/) 2021-
+
+Cutt Systems + Mirai Design (Online courses)
+
+- JavaScript
+- Node.js
+- Web Scraping (Python)
+- TCP/IP and Packet Capture
+- REST and `jq`
+
 
 ### [徳山大学](https://www.shunan-u.ac.jp/) 2011-2014
 
