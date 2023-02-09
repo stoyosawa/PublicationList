@@ -67,7 +67,7 @@ The English titles that follow are informational and subject to change.
 - Toyosawa, [Puthon + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
 	Cutt System, 372 pages (September 2022). [TOC Here](./TOC/2022-Pillow.md).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
-	Cutt Sysytem, 264 pages (July 2021).
+	Cutt Sysytem, 264 pages (July 2021). [TOC Here](./TOC/2021-JqHandbook.md).
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](https://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	Cutt System, 378 pages (January 2021). [TOC Here](./TOC/2021-OpenCV-Python.md).
 - Toyosawa, [Node.js Explained － API and Examples](https://www.cutt.co.jp/book/978-4-87783-489-0.html),
