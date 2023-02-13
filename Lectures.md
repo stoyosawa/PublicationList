@@ -26,7 +26,7 @@ Tokuyama University, Yamaguchi, Japan.
 - 情報リテラシー II (Computer Literacy II)
 - 情報とメディア I (Introduction to Information and Digital Media)
 - 情報システム論 (Foundation of Information System)
-- データベース論 (Database Systems)
+- データベース論 (Database Systems)-Used irebird 
 - マルチメディア論 (Digital Images)
 - ソフトウェア演習 I (Laboratory in Software and Applications I)
 - ネットワーク論 (Computer Networks)

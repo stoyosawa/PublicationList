@@ -2,10 +2,8 @@
 
 著書・訳書はここまでで35冊。
 
-### Original work / 原著
 
-日本語のものが正式な書名です。続く英語タイトルは参考までで、英語で書いたらこう名付けるかなぁ、とでっちあげたものなので、（筆者の心変わりから）変更されることもあります。  
-The English titles that follow are informational and subject to change.
+### Original work / 原著
 
 - 豊沢聡, [TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html),
 	秀和システム, 428頁（2023年2月）．
@@ -62,16 +60,20 @@ The English titles that follow are informational and subject to change.
 
 † 共同筆名
 
+The books are written in Japanese. The English titiles below are informationl.
+
+![TOC](./Images/Toc.png) Table of contents in English (for your information).
+
 - Toyosawa, [TCP/IP Essentials: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/book/9784798068664.html),
-	Shuwa System, 428 pages (February 2023). [TOC Here](./TOC/2023-TcpIp.md).
+	Shuwa System, 428 pages (February 2023). [![TOC](./Images/Toc.png)](./TOC/2023-TcpIp.md)
 - Toyosawa, [Puthon + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
-	Cutt System, 372 pages (September 2022). [TOC Here](./TOC/2022-Pillow.md).
+	Cutt System, 372 pages (September 2022). [![TOC](./Images/Toc.png)](./TOC/2022-Pillow.md).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
-	Cutt Sysytem, 264 pages (July 2021). [TOC Here](./TOC/2021-JqHandbook.md).
+	Cutt Sysytem, 264 pages (July 2021). [![TOC](./Images/Toc.png)](./TOC/2021-JqHandbook.md).
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](https://www.cutt.co.jp/book/978-4-87783-460-9.html),
-	Cutt System, 378 pages (January 2021). [TOC Here](./TOC/2021-OpenCV-Python.md).
+	Cutt System, 378 pages (January 2021). [![TOC](./Images/Toc.png)](./TOC/2021-OpenCV-Python.md).
 - Toyosawa, [Node.js Explained － API and Examples](https://www.cutt.co.jp/book/978-4-87783-489-0.html),
-	Cutt System, 529 pages (July 2020). [TOC Here](./TOC/2020-Node.md).
+	Cutt System, 529 pages (July 2020). [![TOC](./Images/Toc.png)](./TOC/2020-Node.md).
 - Toyosawa, Ohma & Kato, [A Guide for Information Engineers](https://www.cutt.co.jp/book/978-4-87783-463-0.html),
 	Cutt System, 320 pages (August 2019).
 - Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](https://www.cutt.co.jp/book/978-4-87783-380-0.html),
@@ -120,7 +122,6 @@ The English titles that follow are informational and subject to change.
 ### Translation work / 訳書
 
 日本語でのタイトルを先に示し、続いて原著の書誌情報を示します。  
-The Japanese (translated) titles, then the original English titles (the original bibliographies) follow.
 
 - 梶原玲子訳；豊沢聡，桑井博之監訳，[Fluent Python ― Pythonic な思考とコーディング手法](https://www.oreilly.co.jp/books/9784873118178/)，
 	オライリー・ジャパン，823頁（2017年10月）．
@@ -144,6 +145,8 @@ The Japanese (translated) titles, then the original English titles (the original
 	カットシステム，336頁（2000年5月）．
 
 † 未記名（uncredited work)
+
+The followings are the original English titles of the above translations. 
 
 - Luciano Ramalho, [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/),
 	O'Reilly Media, 743 pages (August 2015).

@@ -1,6 +1,6 @@
 ## DevCentral Technical articles
 
-F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for engineers looking for F5 technologies based solutions. It is comprised of more than 300,000 people from across the globe that are passionate about what they can do with F5 technology. Members range from beginning to advanced developers, industry thought leaders, and F5 MVPs.
+F5 [DevCentral](https://devcentral.f5.com/s/) is a virtual community for engineers looking for F5 technologies based solutions. The techinical articles are curated by the F5 editors.
 
 - [Satoshi Toyosawa Profile](https://devcentral.f5.com/s/profile/0051T000008tySCQAY)
 

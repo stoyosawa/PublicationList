@@ -6,10 +6,10 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"Effects of font design to the perceived affect of readers",
 	Proceeding of 2015 Anual Coference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015).
 - Satoshi Toyosawa & Takashi Kawai,
-	"Measurement of perceived stereoscopic sensation through disparity metrics and compositions",
+	["Measurement of perceived stereoscopic sensation through disparity metrics and compositions"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9011/901117/Measurement-of-perceived-stereoscopic-sensation-through-disparity-metrics-and-compositions/10.1117/12.2036667.short),
 	IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXV, 901117 (February 2014).
 - Ryo Oami, Andrea Kutics, Akihiko Nakagawa & Satoshi Toyosawa,
-	"'Shin-hanga' filter with improved contour lines and gradation",
+	["'Shin-hanga' filter with improved contour lines and gradation"](https://ieeexplore.ieee.org/document/6727320),
   	9th International Conference on Signal-Image Technology & Internet-Based Systems 2013 (SITIS 2013), pp. 1057-1062 (December 2013).
 - Satoshi Toyosawa & Takashi Kawai,
 	"Frame disparity statistics for subjective stereoscopic sensation evaluation",
@@ -18,13 +18,13 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"Novel 'Shin-hanga' filter using segmentation and gradation",
 	Institute of Image Information and Television Engineers Technical Report, Vol. 37, No. 17 (AIT2013-44), pp. 43-46 (March 2013).
 - Satoshi Toyosawa, Takashi Kawai, Chin-Sen Chen & Ming-Hui Lin,
-	"Differences in viewing history affect discomfort associated with stereoscopic video",
+	["Differences in viewing history affect discomfort associated with stereoscopic video"](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.105),
 	Journal of Society for Information Display, Vol. 20, Issue 8, pp. 474-483 (August 2012).
 - Hideki Tominaga & Satoshi Toyosawa,
 	"Sound quality improvement of loudspeaker system",
 	Institute of Image Information and Television Engineers Technical Report (EA2012-59), pp. 31-35 (August 2012).
 - Paul Dewaal, Andrea Kutics, Satoshi Toyosawa & Akihiko Nakagawa,
-	"Improved game artificial intelligence through interactive environments",
+	["Improved game artificial intelligence through interactive environments"](http://digrajapan.org/app-def/S-102/DiGRAJ_WP/wp-content/uploads/2019/06/Paul-Dewaal.pdf),
   	DiGRA Japan 2012 Summer Conference (July 2012).
 - Ryo Kato, Takuya Nakamura, Hiroshi Yasuda, Reiko Mitsuya, Satoshi Toyosawa, Takashi Kawai, Jari Takatalo, Gote Nyman & Jukka Hakkinen,
 	"Evaluation of user experience in a stereoscopic video game",
@@ -33,7 +33,7 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"Evaluation of sitting posture to watch 3D television programs",
 	Proceeding of 2011 Anual Coference of the Japan Ergonomics Society, Vol. 47, Supplement, pp. 258-259 (June 2011).
 - Satoshi Toyosawa, Hiroyuki Morikawa, Koichi Nakano, Takashi Kawai, Chin-Sen Chen, Hung-Lu Chang & Jinn-Cherng Yang,
-	"Ergonomic evaluation of crosstalk in stereoscopy through heart activity and forehead blood flow",
+	["Ergonomic evaluation of crosstalk in stereoscopy through heart activity and forehead blood flow"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7863/786311/Ergonomic-evaluation-of-crosstalk-in-stereoscopy-through-heart-activity-and/10.1117/12.872199.short),
     IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXII, 7863-35 (January 2011).
 - Satoshi Toyosawa & Takashi Kawai,
 	"An experience oriented video digesting method using heart activity and its applicable video types",
