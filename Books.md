@@ -1,10 +1,12 @@
 ## Commercial Books / 商業出版
 
-著書・訳書はここまでで35冊。
+著書・訳書はここまでで35+1冊。
 
 
 ### Original work / 原著
 
+- 豊沢聡, [jq クックブック](TBA),
+	カットシステム，X頁（2022年3月予定）．
 - 豊沢聡, [TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html),
 	秀和システム, 428頁（2023年2月）．
 - 豊沢聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，

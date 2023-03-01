@@ -111,7 +111,7 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"A study on document management facility in PMTC/N-ISDN",
 	The 1993 Autumn Conference of IEICE, D-144 (p. 6-146) (September 1993).
 - Satoshi Toyosawa, Hiroyuki Yamaguchi & Shigeki Masaki,
-	"A window auto-management scheme for a multimedia-multipoint teleconference",
+	["A window auto-management scheme for a multimedia-multipoint teleconference"](https://ieeexplore.ieee.org/document/397462),
 	IEEE International Conference on Communications 1993 (ICC 1993), pp. 1177-1182 (May 1993).
 - Satoshi Toyosawa & Hiroyuki Yamaguchi,
 	"Window auto-management for teleconference",
