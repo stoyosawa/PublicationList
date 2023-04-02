@@ -1,13 +1,10 @@
 ## Commercial Books / 商業出版
 
-著書・訳書はここまでで35+1冊。
-
-
 ### Original work / 原著
 
-- 豊沢聡, [jq クックブック](TBA),
-	カットシステム，X頁（2022年3月予定）．
-- 豊沢聡, [TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html),
+- 豊沢聡，[jq クックブック](TBA),
+	カットシステム，278頁（2023年4月予定）．
+- 豊沢聡，[TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html), 
 	秀和システム, 428頁（2023年2月）．
 - 豊沢聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，
 	カットシステム，372頁（2022年9月）．
@@ -62,16 +59,18 @@
 
 † 共同筆名
 
-The books are written in Japanese. The English titiles below are informationl.
+The books are written in Japanese. The English titles below are informational.
 
 ![TOC](./Images/Toc.png) Table of contents in English (for your information).
 
-- Toyosawa, [TCP/IP Essentials: A Guide for Netoworking Begineers](https://www.shuwasystem.co.jp/book/9784798068664.html),
+- Toyosawa, [jq Cookbook](./TBA),
+	Cutt System, 278 pages (April 2023. To be published).  [![TOC](./Images/Toc.png)](./TOC/2023-jqCookbook.md)
+- Toyosawa, [TCP/IP Essentials: A Guide for Networking Beginners](https://www.shuwasystem.co.jp/book/9784798068664.html),
 	Shuwa System, 428 pages (February 2023). [![TOC](./Images/Toc.png)](./TOC/2023-TcpIp.md)
-- Toyosawa, [Puthon + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
+- Toyosawa, [Image Processing with Python + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
 	Cutt System, 372 pages (September 2022). [![TOC](./Images/Toc.png)](./TOC/2022-Pillow.md).
 - Toyosawa, [jq Handbook](https://www.cutt.co.jp/book/978-4-87783-491-3.html),
-	Cutt Sysytem, 264 pages (July 2021). [![TOC](./Images/Toc.png)](./TOC/2021-JqHandbook.md).
+	Cutt System, 264 pages (July 2021). [![TOC](./Images/Toc.png)](./TOC/2021-JqHandbook.md).
 - Nagata & Toyosawa, [Practical Image/Video Processing and Machine Learning with OpenCV 4 for Python](https://www.cutt.co.jp/book/978-4-87783-460-9.html),
 	Cutt System, 378 pages (January 2021). [![TOC](./Images/Toc.png)](./TOC/2021-OpenCV-Python.md).
 - Toyosawa, [Node.js Explained － API and Examples](https://www.cutt.co.jp/book/978-4-87783-489-0.html),
@@ -80,13 +79,13 @@ The books are written in Japanese. The English titiles below are informationl.
 	Cutt System, 320 pages (August 2019).
 - Nagata & Toyosawa, [Practical Image and Video Processing with OpenCV 3 for C++](https://www.cutt.co.jp/book/978-4-87783-380-0.html),
 	Cutt System, 406 pages (August 2017).
-- Toyosawa & Pestka, [Small Talk on IT Jargons (2nd Edition)](https://www.cutt.co.jp/book/978-4-87783-372-5.html),
+- Toyosawa & Pestka, [Small Talk on IT Jargon (2nd Edition)](https://www.cutt.co.jp/book/978-4-87783-372-5.html),
 	Cutt System, 257 pages (August 2015).
-- Kiwai, Toyosawa & Nagata, [Practical Image Processing and Analysis with OpenCV 2.4 for Python](https://www.cutt.co.jp/book/978-4-87783-346-6.html),
+- Kuwai, Toyosawa & Nagata, [Practical Image Processing and Analysis with OpenCV 2.4 for Python](https://www.cutt.co.jp/book/978-4-87783-346-6.html),
 	Cutt System, 332 pages (June 2014).
 - Toyosawa, [Read Me First - C Language (2nd Edition)](https://www.cutt.co.jp/book/978-4-87783-334-3.html),
 	Cutt System, 295 pages (December 2013).
-- Nagata Toyosawa, Kitayama & Sakai, [Practical Image Processing and Analysis with OpenCV 2.4 for C](https://www.cutt.co.jp/book/978-4-87783-184-4.html),
+- Nagata, Toyosawa, Kitayama & Sakai, [Practical Image Processing and Analysis with OpenCV 2.4 for C](https://www.cutt.co.jp/book/978-4-87783-184-4.html),
 	Cutt System, 352 pages (February 2013).
 - Toyosawa & Nagata, [Introduction to Digital Video Processing](https://www.cutt.co.jp/book/978-4-87783-183-7.html),
 	Cutt System, 298 pages (August 2012).
@@ -95,7 +94,7 @@ The books are written in Japanese. The English titiles below are informationl.
 - Nagata & Toyosawa, [Practical Image Processing and Analysis with OpenCV](https://www.cutt.co.jp/book/978-4-87783-203-2.html),
 	Cutt System, 275 pages (June 2009).
 - Toyosawa & Norizo, [TCP/IP and Windows Commands](https://asciimw.jp/search/isbn/978-4-7561-5144-5),
-	Ascii, 255 pages (March 2008).
+	ASCII, 255 pages (March 2008).
 - Shin<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net (2nd Edition)](https://www.cutt.co.jp/book/4-87783-182-0.html),
 	Cutt System, 213 pages (January 2008).
 - Toyosawa & Okumura, [A Guide to Effective Essays and Papers (Word 2007 Edition)](https://www.cutt.co.jp/book/4-87783-156-1.html),
@@ -114,7 +113,7 @@ The books are written in Japanese. The English titiles below are informationl.
 	Cutt System, 251 pages (November 2003).
 - Toyosawa, [Read Me First - Perl](https://www.cutt.co.jp/book/4-87783-075-8.html),
 	Cutt System, 199 pages (May 2003).
-- Toyosawa, [Small Talk on IT Jargons](https://www.cutt.co.jp/book/4-87783-079-0.html),
+- Toyosawa, [Small Talk on IT Jargon](https://www.cutt.co.jp/book/4-87783-079-0.html),
 	Cutt System, 270 pages (February 2003).
 - Toyosawa, [Practical Java Network Programming](https://www.cutt.co.jp/book/4-87783-049-9.html),
 	Cutt System, 311 pages (July 2002).
@@ -146,7 +145,7 @@ The books are written in Japanese. The English titiles below are informationl.
 - 森崎正人，豊沢聡訳，[MIT アテナプロジェクトのすべて](https://www.cutt.co.jp/book/4-87783-017-0.html)，
 	カットシステム，336頁（2000年5月）．
 
-† 未記名（uncredited work)
+† 未記名（Uncredited work)
 
 The followings are the original English titles of the above translations. 
 

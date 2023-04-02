@@ -1,10 +1,11 @@
 ## Academic papers
 
-Some papers are available from [Research Gate](https://www.researchgate.net/profile/Satoshi-Toyosawa).
-
+- Satoshi Toyosawa,
+	["The Addition of the Death (DTH) Flag to TCP"](https://www.rfc-editor.org/info/rfc9401),
+	RFC 9401 (1 April 2023).
 - Satoshi Toyosawa, Takshi Kawai & Hiroshi Morikawa,
-	"Effects of font design to the perceived affect of readers",
-	Proceeding of 2015 Anual Coference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015).
+	["Effects of font design to the perceived affect of readers"](https://www.jstage.jst.go.jp/article/jje/51/Supplement/51_S320/_article/-char/ja/),
+	Proceeding of 2015 Anual Coference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015). 🇯🇵
 - Satoshi Toyosawa & Takashi Kawai,
 	["Measurement of perceived stereoscopic sensation through disparity metrics and compositions"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9011/901117/Measurement-of-perceived-stereoscopic-sensation-through-disparity-metrics-and-compositions/10.1117/12.2036667.short),
 	IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXV, 901117 (February 2014).
@@ -12,17 +13,17 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	["'Shin-hanga' filter with improved contour lines and gradation"](https://ieeexplore.ieee.org/document/6727320),
   	9th International Conference on Signal-Image Technology & Internet-Based Systems 2013 (SITIS 2013), pp. 1057-1062 (December 2013).
 - Satoshi Toyosawa & Takashi Kawai,
-	"Frame disparity statistics for subjective stereoscopic sensation evaluation",
-	Institute of Image Information and Television Engineers Technical Report (3DIT2013-26/IDY2013-23), Vol. 37,  No. 24, pp. 5-8 (June 2013).
+	["Frame disparity statistics for subjective stereoscopic sensation evaluation"](https://www.jstage.jst.go.jp/article/itetr/37.24/0/37.24_5/_article/-char/ja/),
+	Institute of Image Information and Television Engineers Technical Report (3DIT2013-26/IDY2013-23), Vol. 37,  No. 24, pp. 5-8 (June 2013). 🇯🇵
 - Ryo Oami, Andrea Kutics, Akihiko Nakagawa & Satoshi Toyosawa,
-	"Novel 'Shin-hanga' filter using segmentation and gradation",
-	Institute of Image Information and Television Engineers Technical Report, Vol. 37, No. 17 (AIT2013-44), pp. 43-46 (March 2013).
+	["Novel 'Shin-hanga' filter using segmentation and gradation"](https://www.jstage.jst.go.jp/article/itetr/37.17/0/37.17_43/_article/-char/ja/),
+	Institute of Image Information and Television Engineers Technical Report, Vol. 37, No. 17 (AIT2013-44), pp. 43-46 (March 2013). 🇯🇵
 - Satoshi Toyosawa, Takashi Kawai, Chin-Sen Chen & Ming-Hui Lin,
 	["Differences in viewing history affect discomfort associated with stereoscopic video"](https://sid.onlinelibrary.wiley.com/doi/10.1002/jsid.105),
 	Journal of Society for Information Display, Vol. 20, Issue 8, pp. 474-483 (August 2012).
 - Hideki Tominaga & Satoshi Toyosawa,
-	"Sound quality improvement of loudspeaker system",
-	Institute of Image Information and Television Engineers Technical Report (EA2012-59), pp. 31-35 (August 2012).
+	["Sound quality improvement of loudspeaker system"](https://ken.ieice.org/ken/paper/20120802R0vK/),
+	Institute of Image Information and Television Engineers Technical Report (EA2012-59), pp. 31-35 (August 2012). 🇯🇵
 - Paul Dewaal, Andrea Kutics, Satoshi Toyosawa & Akihiko Nakagawa,
 	["Improved game artificial intelligence through interactive environments"](http://digrajapan.org/app-def/S-102/DiGRAJ_WP/wp-content/uploads/2019/06/Paul-Dewaal.pdf),
   	DiGRA Japan 2012 Summer Conference (July 2012).
@@ -30,28 +31,28 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"Evaluation of user experience in a stereoscopic video game",
 	Journal of the Game Amusement Society, Vol.4, No.1. (2012).
 - Akinori Ohkami, Yuya Tomiyama,  Yuki Takahashi, Akihiko Shinkai, Reiko Mitsuya, Satoshi Toyosawa, Takashi Kawai & Chin-Sen Chen,
-	"Evaluation of sitting posture to watch 3D television programs",
-	Proceeding of 2011 Anual Coference of the Japan Ergonomics Society, Vol. 47, Supplement, pp. 258-259 (June 2011).
+	["Evaluation of sitting posture to watch 3D television programs"](https://www.jstage.jst.go.jp/article/jergo/47spl/0/47spl_0_258/_article/-char/ja/),
+	Proceeding of 2011 Anual Coference of the Japan Ergonomics Society, Vol. 47, Supplement, pp. 258-259 (June 2011). 🇯🇵
 - Satoshi Toyosawa, Hiroyuki Morikawa, Koichi Nakano, Takashi Kawai, Chin-Sen Chen, Hung-Lu Chang & Jinn-Cherng Yang,
 	["Ergonomic evaluation of crosstalk in stereoscopy through heart activity and forehead blood flow"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7863/786311/Ergonomic-evaluation-of-crosstalk-in-stereoscopy-through-heart-activity-and/10.1117/12.872199.short),
     IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXII, 7863-35 (January 2011).
 - Satoshi Toyosawa & Takashi Kawai,
-	"An experience oriented video digesting method using heart activity and its applicable video types",
+	["An experience oriented video digesting method using heart activity and its applicable video types"](https://link.springer.com/chapter/10.1007/978-3-642-15702-8_24),
   	The 11th Pacific-Rim Conference on Multimedia (PCM 2010), LNCS 6297, pp. 260-271 (September 2010).
 - Satoshi Toyosawa, Hiroshi Morikawa, Koichi Nakano, Takashi Kawai, Chin-Sen Chen, Hung-Lu Chang & Jinn-Cherng Yang,
-	"Psycho-physiological effects of crosstalk in stereoscopic viewing (1)",
-	Proceeding of 2010 Anual Coference of the Japan Ergonomics Society, Vol. 46, Supplement, pp. 466-467 (June 2010).
+	["Psycho-physiological effects of crosstalk in stereoscopic viewing (1)"](https://www.jstage.jst.go.jp/article/jergo/46sp/0/46sp_0_480/_article/-char/ja/),
+	Proceeding of 2010 Anual Coference of the Japan Ergonomics Society, Vol. 46, Supplement, pp. 466-467 (June 2010). 🇯🇵
 - Hiroshi Morikawa, Satoshi Toyosawa, Koichi Nakano, Takashi Kawai, Chin-Sen Chen, Hung-Lu Chang & Jinn-Cherng Yang,
-	"Psycho-physiological effects of crosstalk in stereoscopic viewing (2)",
-	Proceeding of 2010 Anual Coference of the Japan Ergonomics Society, Vol. 46, Supplement, pp. 468-469 (June 2010).
+	["Psycho-physiological effects of crosstalk in stereoscopic viewing (2)"](https://www.jstage.jst.go.jp/article/jergo/46sp/0/46sp_0_482/_article/-char/ja/),
+	Proceeding of 2010 Anual Coference of the Japan Ergonomics Society, Vol. 46, Supplement, pp. 468-469 (June 2010). 🇯🇵
 - Satoshi Toyosawa,
-	"Video digesting methods based on viewer's heart activity" (doctoral dissertation),
-	Institute for Global, Information and Telecommunication, Waseda Univerrity (June 2009).
+	["Video digesting methods based on viewer's heart activity"](http://www.info.giti.waseda.ac.jp/bulletin/papers/2009/081-084.pdf) (doctoral dissertation),
+	Institute for Global, Information and Telecommunication, Waseda Univerrity (June 2009). 🇯🇵
 - Satoshi Toyosawa & Takashi Kawai,
 	"A video abstraction method based on viewer's heart activity and its evaluations",
 	Journal of Institute of Image Information and Television Engineers, Vol. 63, No. 1, pp. 86-94 (January 2009).
 - Satoshi Toyosawa & Takashi Kawai,
-	"An assemblage of impressive shots - a video digesting method based on viewer's heart activity",
+	["An assemblage of impressive shots - a video digesting method based on viewer's heart activity"](https://www.actapress.com/Abstract.aspx?paperId=33816),
   	12th IASTED International Conference on Internet and Multimedia Systems and Applications (IMSA 2008), pp. 107-112 (August 2008).
 - Satoshi Toyosawa & Takashi Kawai,
 	"A method for video digest generation based on a viewer's attention measure",
@@ -60,7 +61,7 @@ Some papers are available from [Research Gate](https://www.researchgate.net/prof
 	"Heart rate based video digest as a personal impression memo",
 	Proceeding of 2007 Coference of the Japan Ergonomics Society Kanto Chapter, pp. 89-90 (B-21) (November 2007).
 - Satoshi Toyosawa & Takashi Kawai,
-	"Video digest based on heart rate",
+	["Video digest based on heart rate"](https://dl.acm.org/doi/10.5555/1659167.1659172),
 	7th IASTED International Conference on Visualization, Imaging, and Image Processing (VIIP 2007), pp. 15-20 (August 2007).
 - Satoshi Toyosawa & Takashi Kawai,
 	"A video digest generation method based on heart-rate-variability",
