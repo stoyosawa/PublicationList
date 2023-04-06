@@ -3,6 +3,7 @@
 The original works are written in Japanese. The English titles and headings are informational only.  
 [The complete list of commercial publications is here](https://github.com/stoyosawa/PublicationList).
 
+- [jq Cookook](./2023-jqCookbook.md), 2023.
 - [TCP/IP Essentials](./2023-TcpIp.md), 2023.
 - [Python + Pillow/PIL](./2022-Pillow.md), 2022.
 - [jq Handbook](./2022-JqHandBook.md), 2021.

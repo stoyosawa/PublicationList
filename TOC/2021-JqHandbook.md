@@ -4,7 +4,7 @@
 <img src="https://www.cutt.co.jp/book/images/978-4-87783-491-3.png" width="300">
 
 Satoshi Toyosawa  
-Cutt Systems, Tokyo, Japan. 2022.
+Cutt Systems, Tokyo, Japan. 2021.
 
 Japanese edtion is available from
 [amazon.co.jp](https://www.amazon.co.jp/dp/4877834915),

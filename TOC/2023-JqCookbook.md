@@ -1,7 +1,15 @@
 # jq Cookbook
 
+<!--- 652 x 841 -->
+<img src="https://www.cutt.co.jp/book/images/978-4-87783-508-8.png" width="300">
+
 Satoshi Toyosawa  
 Cutt Systems, Tokyo, Japan. 2023.
+
+Japanese edtion is available from
+[honto](https://honto.jp/netstore/pd-book_32427461.html),
+and other bookstores.
+
 
 ## Table of Contents
 
@@ -29,7 +37,7 @@ Equivalent Python methods are shown in fixed fonts.
 	- N18 Extract all elements of the specific type
 	- N19 Round floating point numbers at the specified spots - `f''`string
 	- N20 Convert Unix Epock to ISO 8601 format - `datetime.fromtimestamp()`
--Chapter 2: String functions
+- Chapter 2: String functions
 	- S01 Get Unicode codepoint from strings - `ord()`
 	- S02 Get strings from Unicode codepoints - `chr()`
 	- S02 Convert numbers to strings - `str()`
@@ -62,7 +70,7 @@ Equivalent Python methods are shown in fixed fonts.
 	- A04 Return the cross products - `numpy.cross()`
 	- A05 Calculate the distances - `math.dist()`
 	- A06 Generate the Cartesian product - `itertools.product()`
-	- A07 Generate an array of alphabaets
+	- A07 Generate an array of alphabets
 	- A08 Insert an array to another array - `list.extend()`
 	- A09 Split arrays
 	- A10 Slice with steps - `list[start:end:step]`

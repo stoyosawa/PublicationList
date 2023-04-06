@@ -2,8 +2,8 @@
 
 ### Original work / 原著
 
-- 豊沢聡，[jq クックブック](TBA),
-	カットシステム，278頁（2023年4月予定）．
+- 豊沢聡，[jq クックブック](https://www.cutt.co.jp/book/978-4-87783-508-8.html),
+	カットシステム，278頁（2023年5月）．
 - 豊沢聡，[TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html), 
 	秀和システム, 428頁（2023年2月）．
 - 豊沢聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，
@@ -63,8 +63,8 @@ The books are written in Japanese. The English titles below are informational.
 
 ![TOC](./Images/Toc.png) Table of contents in English (for your information).
 
-- Toyosawa, [jq Cookbook](./TBA),
-	Cutt System, 278 pages (April 2023. To be published).  [![TOC](./Images/Toc.png)](./TOC/2023-jqCookbook.md)
+- Toyosawa, [jq Cookbook](https://www.cutt.co.jp/book/978-4-87783-508-8.html),
+	Cutt System, 278 pages (May 2023).  [![TOC](./Images/Toc.png)](./TOC/2023-JqCookbook.md)
 - Toyosawa, [TCP/IP Essentials: A Guide for Networking Beginners](https://www.shuwasystem.co.jp/book/9784798068664.html),
 	Shuwa System, 428 pages (February 2023). [![TOC](./Images/Toc.png)](./TOC/2023-TcpIp.md)
 - Toyosawa, [Image Processing with Python + Pillow/PIL](https://cutt.co.jp/book/978-4-87783-525-5.html),
