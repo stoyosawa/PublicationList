@@ -1,7 +1,7 @@
 # Web Scraping
 
 <!--- 200 x 259 -->
-<img src="https://www.cutt.co.jp/book/images/978-4-87783-541-5.png width="200">
+<img src="https://www.cutt.co.jp/book/images/978-4-87783-541-5.png" width="200">
 
 Satoshi Toyosawa  
 Cutt System, Tokyo, Japan. 2023.
