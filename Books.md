@@ -2,10 +2,12 @@
 
 ### Original work / 原著
 
+- 豊沢聡，[Webスクレイピング Pythonによるインターネット情報活用術](https://www.cutt.co.jp/book/978-4-87783-541-5.html),
+	カットシステム，280頁（2023年8月）．
 - 豊沢聡，[jq クックブック](https://www.cutt.co.jp/book/978-4-87783-508-8.html),
 	カットシステム，278頁（2023年5月）．
 - 豊沢聡，[TCP/IPのツボとコツがゼッタイにわかる本](https://www.shuwasystem.co.jp/book/9784798068664.html), 
-	秀和システム, 428頁（2023年2月）．
+	秀和システム，428頁（2023年2月）．
 - 豊沢聡，[Python + Pillow/PIL - 画像の加工・補正・編集とその自動化](https://cutt.co.jp/book/978-4-87783-525-5.html)，
 	カットシステム，372頁（2022年9月）．
 - 豊沢聡，[jq ハンドブック](https://www.cutt.co.jp/book/978-4-87783-491-3.html)，
@@ -63,6 +65,8 @@ The books are written in Japanese. The English titles below are informational.
 
 ![TOC](./Images/Toc.png) Table of contents in English (for your information).
 
+- Toyosawa, [Web Scraping](https://www.cutt.co.jp/book/978-4-87783-541-5.html),
+	Cutt System, 280 pages (Auguest 2023).   [![TOC](./Images/Toc.png)](./TOC/2023-WebScraping.md)
 - Toyosawa, [jq Cookbook](https://www.cutt.co.jp/book/978-4-87783-508-8.html),
 	Cutt System, 278 pages (May 2023).  [![TOC](./Images/Toc.png)](./TOC/2023-JqCookbook.md)
 - Toyosawa, [TCP/IP Essentials: A Guide for Networking Beginners](https://www.shuwasystem.co.jp/book/9784798068664.html),
@@ -102,13 +106,13 @@ The books are written in Japanese. The English titles below are informational.
 - Toyosawa, [Java Workbook](https://www.cutt.co.jp/book/4-87783-824-4.html),
 	Cutt System, 143 pages (December 2006).
 - Shin & Ikezawa<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net - SMTP and POP3](https://www.cutt.co.jp/book/4-87783-126-6.html)
-	Cutt System, 277 pages (June 2005)
+	Cutt System, 277 pages (June 2005).
 - Toyosawa & Okumura, [A Guide to Effective Essays and Papers (Word 2003 Edition)](https://www.cutt.co.jp/book/4-87783-128-2.html),
 	Cutt System, 149 pages (November 2004).
 - Shin & Ikezawa<sup>†</sup>, [TCP/IP Network Programming with Visual C# .net - FTP](https://www.cutt.co.jp/book/4-87783-125-8.html),
 	Cutt System, 239 pages (September 2004).
 - Shin & Ikezawa<sup>†</sup> [TCP/IP Network Programming with Visual C# .net - Fundamentals](https://www.cutt.co.jp/book/4-87783-105-3.html),
-	Cutt System, 230 pages (February 2004)  
+	Cutt System, 230 pages (February 2004).
 - Toyosawa, [Read Me First - C Language](https://www.cutt.co.jp/book/978-4-87783-334-3.html),
 	Cutt System, 251 pages (November 2003).
 - Toyosawa, [Read Me First - Perl](https://www.cutt.co.jp/book/4-87783-075-8.html),
