@@ -1,6 +1,6 @@
 ## Table of Contents
 
-Satoshi Toyosawa / 豊沢 聡, :red[Ph. D.]
+Satoshi Toyosawa / 豊沢 聡, $${\color{red}Ph. D.}$$
 
 - [Academic papers / 学術論文](./Papers.md)
 - [Books / 書籍](./Books.md)
