@@ -1,4 +1,4 @@
-## Commercial magazine articles
+## Magazine articles
 
 ### 連載 (Series)
 
