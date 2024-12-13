@@ -4,7 +4,9 @@
 
 ### 原著
 
-- 豊沢聡，『[OpenCV.jsで作る画像・ビデオ処理Webアプリケーション](https://www.shuwasystem.co.jp/book/9784798072166.html)』, 
+- 豊沢聡，『[Streamlitを使ってみよう〜Pythonアプリケーションを簡単にWebアプリケーションに転換するフレームワーク](TBA)』，
+	技術評論社（2025年2月発売予定）．
+- 豊沢聡，『[OpenCV.jsで作る画像・ビデオ処理Webアプリケーション](https://www.shuwasystem.co.jp/book/9784798072166.html)』，
 	秀和システム，408頁（2024年6月）．
 - 豊沢聡，『[実践RESTサーバ - Node.js、Restify、MongoDBによるバックエンド開発](https://www.cutt.co.jp/book/978-4-87783-549-1.html)』，
 	カットシステム，296頁（2024年5月）．
