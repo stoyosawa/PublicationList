@@ -10,12 +10,14 @@ Satoshi Toyosawa / 豊沢 聡, Ph. D.
 - [Presentations / プレゼンテーション](./Presentations.md)
 - [Patents / 特許](./Tokkyo.md)
 
-```bash
+<mark>test</mark>
+
+<pre>
 [File] main.py
   1  import streamlit as st
-  2
+  2<mark>
   3  if 'image_upload' in st.session_state:
-  4      st.sidebar.markdown(f'ファイル: {st.session_state.image_upload.filename}')
+  4      st.sidebar.markdown(f'ファイル: {st.session_state.image_upload.filename}')</mark>
   5
   6  if 'image_scale' in st.session_state:
   7      st.sidebar.markdown(f'リサイズ: {st.session_state.image_scale}')
@@ -30,4 +32,4 @@ Satoshi Toyosawa / 豊沢 聡, Ph. D.
  16          st.Page('page3.py', title='ポスタリゼーション', icon='🎨')
  17      ]})
  18  pg.run()
-```
+</pre>
