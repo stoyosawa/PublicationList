@@ -93,6 +93,7 @@
 - Satoshi Toyosawa & Takashi Kawai,
 	["Determining pedestrian density in public space from the number of colours in images"](https://www.jstage.jst.go.jp/article/jje1965/40/Supplement/40_Supplement_448/_article/-char/ja),
 	Proceeding of 2004 Anual Coference of the Japan Ergonomics Society, Vol. 40, Supplement, pp. 448-449 (June 2004). 🇯🇵
+
 <!-- 1990年4月～1996年3月（6年） @ NTT。筆頭5本、共著7本、計12本 -->
 - Hideya Ichihara, Shigeki Masaki, Hiroyuki Yamaguchi, Satoshi Toyosawa & Hiroshi Wakabayashi,
 	"Software architecture of PMTC/N-ISDN",
