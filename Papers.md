@@ -2,6 +2,7 @@
 
 🇯🇵 In Japanese.
 
+
 - Satoshi Toyosawa,
 	["The Addition of the Death (DTH) Flag to TCP"](https://www.rfc-editor.org/info/rfc9401),
 	RFC 9401 (1 April 2023).
@@ -127,4 +128,4 @@
 	The 1992 Spring Conference of IEICE, A-310 (March 1992). 🇯🇵
 - Hiroyuki Yamaguchi, Hideya Ichihara, Satoshi Toyosawa & Kazunori Shimamura,
 	"Human interface design for multi-media teleconference",
-	Television Society Technical Report, Vol. 15, No. 39, pp. 15-20 (June 1991). 🇯🇵
+	Television Society Technical Report, Vol. 15, No. 39, pp. 15-20 (June 1991).<details><summary>🇯🇵</summary>山口博幸, 市原英也, 豊澤聡, 島村和典; "マルチメディア通信会議におけるヒューマンインタフェース機構の検討", テレビジョン学会技術報告, Vol. 15, No. 39, pp. 15-20 (28 June 1991).</details>
