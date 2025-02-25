@@ -2,13 +2,17 @@
 
 🇯🇵 In Japanese.
 
+<!-- 現在 本 -->
 
+<!-- 2014年3月～現在 @ 非研究員。筆頭2本、共著0本、計2本。-->
 - Satoshi Toyosawa,
 	["The Addition of the Death (DTH) Flag to TCP"](https://www.rfc-editor.org/info/rfc9401),
 	RFC 9401 (1 April 2023).
 - Satoshi Toyosawa, Takshi Kawai & Hiroshi Morikawa,
 	["Effects of font design to the perceived affect of readers"](https://www.jstage.jst.go.jp/article/jje/51/Supplement/51_S320/_article/-char/ja/),
 	Proceeding of 2015 Anual Conference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015). 🇯🇵
+
+<!-- 2010年10月～2014年3月（3.5年）@ 徳山大学（教授）。筆頭5本、共著5本、計10本。-->
 - Satoshi Toyosawa & Takashi Kawai,
 	["Measurement of perceived stereoscopic sensation through disparity metrics and compositions"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9011/901117/Measurement-of-perceived-stereoscopic-sensation-through-disparity-metrics-and-compositions/10.1117/12.2036667.short),
 	IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXV, 901117 (February 2014).
@@ -42,6 +46,8 @@
 - Satoshi Toyosawa & Takashi Kawai,
 	["An experience oriented video digesting method using heart activity and its applicable video types"](https://link.springer.com/chapter/10.1007/978-3-642-15702-8_24),
   	The 11th Pacific-Rim Conference on Multimedia (PCM 2010), LNCS 6297, pp. 260-271 (September 2010).
+
+<!-- 2006年4月～2011年3月（5年）@ 早稲田大学（客員研究員）。筆頭10本、共著1本、計11本。-->
 - Satoshi Toyosawa, Hiroshi Morikawa, Koichi Nakano, Takashi Kawai, Chin-Sen Chen, Hung-Lu Chang & Jinn-Cherng Yang,
 	["Psycho-physiological effects of crosstalk in stereoscopic viewing (1)"](https://www.jstage.jst.go.jp/article/jergo/46sp/0/46sp_0_480/_article/-char/ja/),
 	Proceeding of 2010 Anual Coference of the Japan Ergonomics Society, Vol. 46, Supplement, pp. 466-467 (June 2010). 🇯🇵
@@ -75,6 +81,8 @@
 - Satoshi Toyosawa & Takashi Kawai,
 	["On physiological structures of heart-rate-variability based video digests"](https://www.jstage.jst.go.jp/article/jje1965/42/Supplement/42_Supplement_206/_article/-char/ja),
 	Proceeding of 2006 Anual Coference of the Japan Ergonomics Society, Vol. 42, Supplement, pp. 206-207 (June 2006). 🇯🇵
+
+<!-- 2003年4月～2006年3月（3年）@ 早稲田大学（学生）。筆頭5本、共著1本、計6本。-->
 - Satoshi Toyosawa & Takashi Kawai
 	"Crowdedness evaluation in public space for pedestrian guidance",
 	8th International IEEE Conference on Intelligent Transportation Systems (ITSC 2005), pp. 137-142 (September 2005).
