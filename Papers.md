@@ -2,7 +2,7 @@
 
 🇯🇵 In Japanese.
 
-<!-- 現在 本 -->
+<!-- 現在 42本 -->
 
 <!-- 2014年3月～現在 @ 非研究員。筆頭2本、共著0本、計2本。-->
 - Satoshi Toyosawa,
@@ -12,7 +12,7 @@
 	["Effects of font design to the perceived affect of readers"](https://www.jstage.jst.go.jp/article/jje/51/Supplement/51_S320/_article/-char/ja/),
 	Proceeding of 2015 Anual Conference of the Japan Ergonomics Society, Vol. 51, Supplement, pp. 320-321 (June 2015). 🇯🇵
 
-<!-- 2010年10月～2014年3月（3.5年）@ 徳山大学（教授）。筆頭5本、共著5本、計10本。-->
+<!-- 2010年10月～2014年3月（3.5年）@ 徳山大学（教授）。筆頭5本、共著6本、計11本。-->
 - Satoshi Toyosawa & Takashi Kawai,
 	["Measurement of perceived stereoscopic sensation through disparity metrics and compositions"](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9011/901117/Measurement-of-perceived-stereoscopic-sensation-through-disparity-metrics-and-compositions/10.1117/12.2036667.short),
 	IS&T/SPIE Electronic Imaging, Steresoscopic Display and Applications XXV, 901117 (February 2014).
