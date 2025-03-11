@@ -21,3 +21,8 @@ Gijutsu Hyoronsha, Tokyo, Japan. 2025.
 - Appendix B  Markdown
 - Appendix C  Streamlit Commands
 - Appendix D  HTML Tags to Streamlit Commands Lookup Table
+
+## Samples codes
+
+- [Blackjack](https://github.com/stoyosawa/streamlit/blob/main/BlackJack/blackjack.py) (Chapter 9). [Visit Streamlit Community Cloud](https://sat-blackjack.streamlit.app/) to play!
+- [Text sentiment analysis](https://github.com/stoyosawa/streamlit/blob/main/Sentiment/sentiment_analysis.py) (Chatper 3). [Visit Streamlit Community Cloud](https://sat-sentiment.streamlit.app/) to try. The model was trained with Japanese corpus, hence, you can't expect meaningful results from non-Japanese texts.
