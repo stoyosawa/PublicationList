@@ -4,9 +4,11 @@
 
 The books are written in Japanese. The following English titles are just informational. Click 📋 for the table of contents.
 
+- Toyosawa, “[Web Application Development with Flask and MySQL](https://www.cutt.co.jp/book/978-4-87783-565-1.html)”,
+	Cutt System, 240 pages (Nov 2024). [📋](./TOC/2025-Flask.md)
 - Toyosawa, “[Python＋Streamlit for Quick and Easy Web Service Deployment](https://gihyo.jp/book/2025/978-4-297-14764-8)”,
 	Gijutsu-Hyoronsha, 400 pages (March 2025). [📋](./TOC/2025-Streamlit.md)
-- Toyosawa, “[OpenCV.js - Image/video processings for Web Frontend](https://www.shuwasystem.co.jp/book/9784798072166.html)”,
+- Toyosawa, “[OpenCV.js - Image/Video Processing for Web Frontend](https://www.shuwasystem.co.jp/book/9784798072166.html)”,
 	Shuwa System, 408 pages (June 2024). [📋](./TOC/2024-OpenCV-js.md)
 - Toyosawa, “[Building REST servers - Node.js + Restify + MongoDB](https://www.cutt.co.jp/book/978-4-87783-549-1.html)”,
 	Cutt System, 296 pages (May 2024). [📋](./TOC/2024-Restify.md)

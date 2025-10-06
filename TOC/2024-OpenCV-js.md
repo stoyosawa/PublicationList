@@ -1,4 +1,4 @@
-# Image/video processings on Web applications
+# OpenCV.js - Image/Video Processing for Web Frontend
 
 <!--- Currently not available from the publisher -->
 <table>
