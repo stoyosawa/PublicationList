@@ -90,7 +90,7 @@
 	"Crowdedness evaluation incorporating a degree of pedestrian’s stagnation pattern",
 	Proceedings of 2005 Annual Conference of Information Processing Society of Japan, pp. 4-15--4-16 (March 2005). 🇯🇵
 - Satoshi Toyosawa & Takashi Kawai,
-	"Evaluating crowdedness from colors in still images",
+	["Evaluating crowdedness from colors in still images"](https://www.his.gr.jp/sympo/his2004.html),
 	Human Interface Symposium 2004, pp. 555-560 (October 2004). 🇯🇵
 - Satoshi Toyosawa & Takashi Kawai,
 	["Crowd congestion evaluation in public space from interframe images"](https://www.jstage.jst.go.jp/article/iteac/2004/0/2004__3-8-1_/_article/-char/ja),
@@ -128,7 +128,7 @@
 	["A window auto-management scheme for a multimedia-multipoint teleconference"](https://ieeexplore.ieee.org/document/397462),
 	IEEE International Conference on Communications 1993 (ICC 1993), pp. 1177-1182 (May 1993).
 - Satoshi Toyosawa & Hiroyuki Yamaguchi,
-	["Window auto-management for teleconference"](https://www.jstage.jst.go.jp/article/tvtr/16/54/16_KJ00001968457/_article/-char/ja)
+	["Window auto-management for teleconference"](https://www.jstage.jst.go.jp/article/tvtr/16/54/16_KJ00001968457/_article/-char/ja),
 	Technical Report of IEICE, OFS92-14, pp. 39-45 (September 1992). 🇯🇵
 - Satoshi Toyosawa & Hiroyuki Yamaguchi,
 	["Empirical rules on window layout"](https://www.jstage.jst.go.jp/article/tvac/28/0/28_403/_article/-char/ja),
