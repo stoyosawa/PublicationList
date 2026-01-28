@@ -93,3 +93,5 @@ Scripts | Description
 `video-mog2.html` | Extract forgrond (moving) objects from video.
 `video-opticalflow.html` | Detect the motion direction.
 `video-transition.html` | Edit two videos with scene transitions (disolve, etc.).
+
+<!--サンプルコードの Zip はパスワードで保護されていないし、README が日本語オンリーなので掲載しない。--->

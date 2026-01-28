@@ -60,3 +60,5 @@ Filename | Section | Description
 `restify-chain.js` | 6.4 | Demonstrates the order of handler execution.
 `util-ab.js` | 2.3 | A utility to bombard a HTTP server (in case you don't have `apache ab`).
 `util-hash.js` | 2.2 | A utility to generate SHA-256 from input string.
+
+<!-- コードは綴じ込みになっているので、ここには URL は示さない。-->

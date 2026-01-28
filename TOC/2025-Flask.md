@@ -45,3 +45,7 @@ Cutt System, Tokyo, Japan. 2025.
 - Appendix B: PythonAnywhere Features
 - Appendix C: Supplementary Notes on Flask
 - Appendix D: Sample Codes
+
+## Sample Codes
+
+The code files can be downloaded from [https://cutt.jp/books/978-4-87783-565-1/](https://cutt.jp/books/978-4-87783-565-1/) in Zipped format. This file is intended for purchasers of the book. The password is provided on page ii.

@@ -26,3 +26,4 @@ Gijutsu Hyoronsha, Tokyo, Japan. 2025.
 
 - [Blackjack](https://github.com/stoyosawa/streamlit/blob/main/BlackJack/blackjack.py) (Chapter 9). [Visit Streamlit Community Cloud](https://sat-blackjack.streamlit.app/) to play!
 - [Text sentiment analysis](https://github.com/stoyosawa/streamlit/blob/main/Sentiment/sentiment_analysis.py) (Chatper 3). [Visit Streamlit Community Cloud](https://sat-sentiment.streamlit.app/) to try. The model was trained with Japanese corpus, hence, you can't expect meaningful results from non-Japanese texts.
+- All the code files in the book can be downloaded from [https://gihyo.jp/book/2025/978-4-297-14764-8/support](https://gihyo.jp/book/2025/978-4-297-14764-8/support) in Zipped format. This file is intended for purchasers of the book. The password is provided on page vi.
